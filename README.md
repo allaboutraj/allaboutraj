@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allaboutraj&label=Profile%20views&color=0e75b6&style=flat" alt="allaboutraj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allaboutraj" alt="allaboutraj" /></a> </p>
+
 
 - 🔭 I’m currently working on [Codeflick](https://github.com/allaboutraj/codeflick)
 
